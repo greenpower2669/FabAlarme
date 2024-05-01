@@ -1,0 +1,8 @@
+﻿  FabAlarme.cpp
+D:\Users\fabri\source\repos\FabAlarme\FabAlarme\FabAlarme.cpp(107,20): warning C4244: 'return' : conversion de 'WPARAM' en 'int', perte possible de données
+  Génération de code en cours
+  1 of 19 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  FabAlarme.vcxproj -> D:\Users\fabri\source\repos\FabAlarme\x64\Release\FabAlarme.exe

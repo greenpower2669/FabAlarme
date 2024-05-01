@@ -1,0 +1,3 @@
+﻿  FabAlarme.cpp
+D:\Users\fabri\source\repos\FabAlarme\FabAlarme\FabAlarme.cpp(107,20): warning C4244: 'return' : conversion de 'WPARAM' en 'int', perte possible de données
+  FabAlarme.vcxproj -> D:\Users\fabri\source\repos\FabAlarme\x64\Debug\FabAlarme.exe
